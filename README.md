@@ -1,4 +1,4 @@
-# Boardly - A Modern Kanban Board Application bb
+# Boardly - A Modern Kanban Board Application bbbbbb
 
 A full-featured Kanban board application built with React, TypeScript, and Supabase, featuring real-time updates, drag-and-drop functionality, and collaborative features.
 
