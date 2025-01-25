@@ -1,0 +1,1 @@
+export const DEFAULT_BACKGROUND = 'https://images.unsplash.com/photo-1682686581030-7fa4ea2b96c3';

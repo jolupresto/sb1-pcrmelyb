@@ -1,0 +1,24 @@
+//
+// This file contains the necessary build settings for iOS development
+//
+
+// Architectures
+ARCHS = arm64
+VALID_ARCHS = arm64
+
+// Deployment
+IPHONEOS_DEPLOYMENT_TARGET = 13.0
+TARGETED_DEVICE_FAMILY = 1,2 // iPhone and iPad
+
+// Development team
+// DEVELOPMENT_TEAM = YOUR_TEAM_ID
+
+// Signing
+CODE_SIGN_IDENTITY = iPhone Developer
+CODE_SIGN_IDENTITY[sdk=iphoneos*] = iPhone Developer
+CODE_SIGNING_REQUIRED = NO
+CODE_SIGNING_ALLOWED = NO
+
+// Other settings
+ENABLE_BITCODE = NO
+SWIFT_VERSION = 5.0

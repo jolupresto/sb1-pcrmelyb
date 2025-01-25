@@ -1,0 +1,45 @@
+/* Mobile-specific styles */
+.page {
+  background-color: #ffffff;
+}
+
+.action-bar {
+  background-color: #f8f9fa;
+  color: #000000;
+}
+
+.btn {
+  font-size: 18;
+  padding: 10;
+  margin: 10;
+  border-radius: 5;
+  background-color: #007aff;
+  color: #ffffff;
+}
+
+.btn:active {
+  background-color: #0056b3;
+}
+
+.form {
+  margin: 20;
+}
+
+.input {
+  padding: 10;
+  margin: 10 0;
+  border-width: 1;
+  border-color: #e2e8f0;
+  border-radius: 5;
+}
+
+.card {
+  margin: 10;
+  padding: 15;
+  background-color: #ffffff;
+  border-radius: 10;
+  shadow-color: #000000;
+  shadow-offset: 0 2;
+  shadow-opacity: 0.1;
+  shadow-radius: 4;
+}
